@@ -18,7 +18,7 @@ public class Main3Activity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent =new Intent(Intent.ACTION_VIEW);
-                intent.setData(Uri.parse("tel:9849528964"));
+                intent.setData(Uri.parse("tel:9791333545"));
                 startActivity(intent);
             }
         });
